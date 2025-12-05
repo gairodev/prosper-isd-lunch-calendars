@@ -1,15 +1,17 @@
-## Windsong Elementary Lunch Calendar (Nutrislice → iCal)
+## Prosper ISD Lunch Calendars (Nutrislice → iCal)
 
-This repository generates an iCalendar (.ics) file with Windsong Elementary lunch menus by fetching data from the Nutrislice API and converting each school day’s menu into an all‑day calendar event.
+This repository generates iCalendar (.ics) files for all Prosper ISD schools by fetching data from the Nutrislice API and converting each school day’s lunch menu into an all‑day calendar event.
 
-The output file `windsong_lunch.ics` is committed back to the repo on a schedule, so anyone can subscribe to the calendar via a stable URL.
+Each school gets its own `.ics` file in `docs/`, and the GitHub Pages site at `docs/index.md` provides a simple selector so parents can subscribe to their school’s lunch calendar via a stable URL.
 
 ### What this repo does
 
-- Fetches lunch menus from Nutrislice for a rolling one‑year window starting today.
-- Creates one all‑day event per date. The event description lists the menu items.
-- Writes the result to `windsong_lunch.ics` at the repo root.
-- A GitHub Actions workflow runs weekly and on demand to refresh the file and commit updates.
+- Discovers all Prosper ISD schools from Nutrislice.
+- Fetches lunch menus for a rolling one‑year window starting today.
+- Creates one all‑day event per date; the description lists the menu items.
+- Writes an `.ics` per school to `docs/<school-slug>_lunch.ics`.
+- Writes/refreshes `docs/index.md` with a list of schools and subscribe links.
+- Optionally maintains a legacy `windsong_lunch.ics` at repo root for continuity.
 
 ## Quick start (local)
 
@@ -21,65 +23,65 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-2) Generate the calendar:
+2) Generate all school calendars:
 
 ```bash
 python generate_calendar.py
 ```
 
-This creates `windsong_lunch.ics` in the repo root. Import it into your calendar app, or host it somewhere and subscribe by URL.
+This creates one `.ics` per school in `docs/` and refreshes `docs/index.md`. You can import an `.ics` into your calendar app, or host it via GitHub Pages and subscribe by URL.
 
 ### Subscribe by URL
 
-If this repo is hosted on GitHub, you can subscribe directly to the “raw” file URL. Replace placeholders with your org/user and repo:
+If this repo is hosted on GitHub, you can subscribe directly to each school’s file using the Pages URL. Replace placeholders with your org/user and repo:
 
-- Markdown link format: `[Raw windsong_lunch.ics](https://raw.githubusercontent.com/<org-or-user>/<repo>/main/windsong_lunch.ics)`
-- Example template: `https://raw.githubusercontent.com/<org-or-user>/<repo>/main/windsong_lunch.ics`
+- Pages link example: `https://<org-or-user>.github.io/<repo>/<school-slug>_lunch.ics`
+- The site index at `https://<org-or-user>.github.io/<repo>/` lists all schools with direct links.
 
-Most calendar apps support adding a calendar by URL. Paste the raw link; updates are pulled automatically when the workflow commits new content.
+Most calendar apps support adding a calendar by URL. Paste the link; updates are pulled automatically when your workflow or manual runs commit new content.
 
 ## How it works
 
 - Script: `generate_calendar.py`
-  - Builds the Nutrislice weeks endpoint from a district subdomain, school slug, and meal type.
-  - Fetches week JSON, collects day menus for dates within the next year.
-  - Produces a standards‑compliant `.ics` with one all‑day event per date:
-    - `SUMMARY`: “Windsong Lunch – Mon DD”
+  - Discovers schools from `https://<district>.api.nutrislice.com/menu/api/schools/`.
+  - For each school, finds a working `lunch` menu type (tries common alternates if needed).
+  - Fetches week JSON and collects day menus for dates within the next year.
+  - Produces standards‑compliant `.ics` with one all‑day event per date:
+    - `SUMMARY`: “<School Name> Lunch – Mon DD”
     - `DESCRIPTION`: bullet‑style list of menu items (wrapped to safe line lengths)
     - If no items are listed by Nutrislice, the event notes that explicitly.
 
 - Dependencies: `requests`
   - See `requirements.txt`. Install with `pip install -r requirements.txt`.
 
-- Output: `windsong_lunch.ics`
-  - Overwritten each run with fresh data.
+- Output:
+  - `docs/<school-slug>_lunch.ics` for each discovered school
+  - `docs/index.md` (selector page)
+  - (Optional) `windsong_lunch.ics` at repo root for the Windsong Elementary legacy link
 
 ## Scheduled updates (GitHub Actions)
 
-Workflow: `.github/workflows/update-calendar.yml`
+Workflow (suggested): `.github/workflows/update-calendars.yml`
 
-- Runs every Monday at 09:00 UTC and can also be triggered manually.
+- Runs on a schedule (e.g., weekly) and on demand.
 - Steps:
   - Checkout
   - Set up Python 3.12
   - `pip install -r requirements.txt`
   - `python generate_calendar.py`
-  - Copies the generated file into `docs/windsong_lunch.ics`
-  - Commits updates if either file changed
+  - Commit updates if files changed
 
 This keeps the calendar current without manual intervention.
 
 ## Configuration
 
-Adjust these constants in `generate_calendar.py` if needed:
+Adjust these in `generate_calendar.py` if needed:
 
 - `DISTRICT_SUBDOMAIN`: Nutrislice district subdomain (e.g., `"prosperisd"`).
-- `SCHOOL_SLUG`: School slug (e.g., `"windsong-elementary"`).
-- `MEAL_TYPE`: Menu type path segment (commonly `"lunch"`, but districts may vary).
-- `CALENDAR_NAME`: Displayed calendar name in the `.ics`.
-- `PRODID`: iCal producer identifier string.
+- `DEFAULT_MEAL_TYPE`: Menu type path segment to try first (commonly `"lunch"`).
+- `PRODID`: iCal producer identifier string used in all outputs.
 
-If your district’s Nutrislice deployment uses a different endpoint pattern or meal slug, tweak `build_weeks_url` and/or `MEAL_TYPE`. If the request returns 404, open your browser’s dev tools on the Nutrislice site and copy the menu API URL pattern it uses.
+If the Nutrislice deployment uses different meal slugs, the script tries several common alternates. You can customize `alternates` in `choose_meal_type_slug`.
 
 ## Notes and limitations
 
@@ -91,19 +93,19 @@ If your district’s Nutrislice deployment uses a different endpoint pattern or 
 
 ## Project structure
 
-- `generate_calendar.py` — main script (fetch, parse, build `.ics`).
+- `generate_calendar.py` — main script (discover schools; fetch, parse; build `.ics`).
 - `requirements.txt` — Python dependencies (minimal: `requests`).
-- `.github/workflows/update-calendar.yml` — weekly auto‑update workflow.
-- `windsong_lunch.ics` — generated calendar file (committed by CI).
- - `docs/index.md` — GitHub Pages site with subscribe instructions and a live link.
- - `docs/windsong_lunch.ics` — copy of the calendar served by GitHub Pages.
+- `.github/workflows/update-calendars.yml` — optional weekly auto‑update workflow.
+- `docs/index.md` — GitHub Pages site with school selector and subscribe links.
+- `docs/<school-slug>_lunch.ics` — per‑school calendars served by GitHub Pages.
+- `windsong_lunch.ics` — legacy Windsong Elementary calendar (kept in sync if present).
 
 ## Contributing
 
 PRs welcome for:
 
-- Additional meal types or multiple calendars.
-- Alternative districts/schools via config.
+- Better handling of school‑specific menu type slugs.
+- Alternative districts via config.
 - Better error handling or richer event metadata.
 
 Open an issue if Nutrislice changes break the endpoint format; include the district and a sample working API URL from your browser network tab.
@@ -116,6 +118,6 @@ To host a small site with subscribe instructions and a stable link:
 - Choose Branch: `main`, Folder: `/docs`.
 - Save. Your site will be available at a URL like:
   - `https://<org-or-user>.github.io/<repo>/`
-  - The calendar file will be at: `https://<org-or-user>.github.io/<repo>/windsong_lunch.ics`
+  - Calendar files will be at: `https://<org-or-user>.github.io/<repo>/<school-slug>_lunch.ics`
 
-The workflow keeps `docs/windsong_lunch.ics` current. The `docs/index.md` page includes the link and copy‑paste steps for Google Calendar, Apple Calendar, and Outlook.
+The generator keeps `docs/` current. The `docs/index.md` page includes a school selector and quick subscribe steps for Google Calendar, Apple Calendar, iOS, and Outlook.
