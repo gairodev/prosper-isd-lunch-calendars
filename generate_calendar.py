@@ -10,7 +10,7 @@ DISTRICT_SUBDOMAIN = "prosperisd"
 SCHOOL_SLUG = "windsong-elementary"
 MEAL_TYPE = "lunch"  # adjust if Prosper uses a custom slug
 CALENDAR_NAME = "Windsong ES Lunch"
-PRODID = "-//LeetFamily//Windsong Lunch//EN"
+PRODID = "-//Family//Windsong Lunch//EN"
 
 
 def build_weeks_url(date: dt.date) -> str:
@@ -118,6 +118,9 @@ def build_ics(menus: Dict[dt.date, List[str]]) -> str:
     ]
 
     for day_date in sorted(menus.keys()):
+        # Skip weekends: 5 = Saturday, 6 = Sunday
+        if day_date.weekday() >= 5:
+            continue
         items = menus[day_date]
         ymd = day_date.strftime("%Y%m%d")
         dtend = (day_date + dt.timedelta(days=1)).strftime("%Y%m%d")
