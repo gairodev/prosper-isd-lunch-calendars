@@ -1,48 +1,19 @@
-## Subscribe to the Windsong Lunch Calendar
+## Add the Windsong Lunch Calendar
 
-Use the link below to subscribe in your calendar app. This page is hosted on GitHub Pages and always points at the latest file.
+Click the link below to add/subscribe in your calendar app:
 
-- Direct link to the calendar file: [windsong_lunch.ics](windsong_lunch.ics)
+- [Click here to add the calendar](windsong_lunch.ics)
 
-If your calendar app asks for a URL, copy this link address and paste it into your app’s “Subscribe by URL” flow.
-
-### Google Calendar (Web)
-- Open Google Calendar.
-- On the left, next to “Other calendars”, click the + icon → “From URL”.
-- Paste the link to `windsong_lunch.ics` (copy the link above).
-- Click “Add calendar”. It will appear under “Other calendars”.
-
-### Apple Calendar (macOS)
-- Open Calendar.
-- File → New Calendar Subscription…
-- Paste the `windsong_lunch.ics` link.
-- Click Subscribe → adjust name/refresh interval as you like → OK.
-
-### Apple Calendar (iOS/iPadOS)
-- Settings → Calendar → Accounts → Add Account → Other.
-- Tap “Add Subscribed Calendar”.
-- Paste the `windsong_lunch.ics` link → Next → Save.
-
-### Outlook on the Web (Outlook.com)
-- Go to Outlook Calendar (web).
-- “Add calendar” → “Subscribe from web”.
-- Paste the `windsong_lunch.ics` link.
-- Name it, choose a color/placement → Import.
-
-### Outlook (Windows/Mac, new)
-- In the Calendar view, choose “Add calendar” → “Subscribe from web”.
-- Paste the `windsong_lunch.ics` link.
-- Name it → Import.
-
----
-
-### Alternate raw link (if you prefer the raw GitHub URL)
-Replace `<org-or-user>` and `<repo>` with your GitHub org/user and repository:
+If your app asks for a URL, copy this and paste it into “Subscribe by URL”:
 
 ```
-https://raw.githubusercontent.com/<org-or-user>/<repo>/main/windsong_lunch.ics
+https://raw.githubusercontent.com/gairodev/prosper-windsong-lunch-calendar/main/windsong_lunch.ics
 ```
 
-Both the link above on this page and the raw link point to the same calendar content. Subscribing by URL ensures your calendar stays up‑to‑date when the file is refreshed weekly.
+### Quick steps (most common apps)
+- Google Calendar (web): Other calendars → + → From URL → paste the link → Add calendar
+- Apple Calendar (macOS): File → New Calendar Subscription… → paste the link → Subscribe
+- iPhone/iPad: Settings → Calendar → Accounts → Add Account → Other → Add Subscribed Calendar → paste the link
+- Outlook (web): Add calendar → Subscribe from web → paste the link → Import
 
 
