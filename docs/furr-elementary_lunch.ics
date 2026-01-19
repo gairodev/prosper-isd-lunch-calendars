@@ -5,48 +5,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Furr Elementary School Lunch
 BEGIN:VEVENT
-UID:furr-elementary-lunch-20260112@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
-DTSTART;VALUE=DATE:20260112
-DTEND;VALUE=DATE:20260113
-SUMMARY:Furr Elementary School Lunch – Jan 12
-DESCRIPTION:Menu:\n- Sun Butter & Jelly Sandwich\n- Beef Hot Dog\n- Make-Your-Own\nFlatbread Mozzarella Pizza\n- French Fries\n- Fresh Celery Sticks\n-\nFresh Apple Wedges\n- Apple Juice\n- Low Sodium Ketchup\n-\nMayonnaise\n- Mustard\n- Ranch Dressing\n- Spicy Chicken and Street\nCorn Mac & Cheese\n- Chocolate Skim Milk\n- 1% Milk
-END:VEVENT
-BEGIN:VEVENT
-UID:furr-elementary-lunch-20260113@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
-DTSTART;VALUE=DATE:20260113
-DTEND;VALUE=DATE:20260114
-SUMMARY:Furr Elementary School Lunch – Jan 13
-DESCRIPTION:Menu:\n- Sun Butter & Jelly Sandwich\n- Max Stix w/ Dipping Sauce\n-\nPopcorn Chicken Salad\n- Dinner Roll\n- Ranch Dressing\n- Refried\nBeans\n- Fresh Tomato Wedges\n- Fresh Orange Wedges\n- Grape Juice\n-\nLow Sodium Ketchup\n- Mayonnaise\n- Mustard\n- Spicy Chicken and\nStreet Corn Mac & Cheese\n- Chocolate Skim Milk\n- 1% Milk
-END:VEVENT
-BEGIN:VEVENT
-UID:furr-elementary-lunch-20260114@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
-DTSTART;VALUE=DATE:20260114
-DTEND;VALUE=DATE:20260115
-SUMMARY:Furr Elementary School Lunch – Jan 14
-DESCRIPTION:Menu:\n- French Toast Sticks\n- Turkey Sausage Patties\n- Pancake\nSyrup\n- Sun Butter & Jelly Sandwich\n- Cheese Pizzadilla\n- Steamed\nBroccoli\n- Red Peppers Fresh\n- Fresh Pear\n- Apple Juice\n- Low\nSodium Ketchup\n- Mayonnaise\n- Mustard\n- Ranch Dressing\n- Spicy\nChicken and Street Corn Mac & Cheese\n- Chocolate Skim Milk\n- 1% Milk
-END:VEVENT
-BEGIN:VEVENT
-UID:furr-elementary-lunch-20260115@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
-DTSTART;VALUE=DATE:20260115
-DTEND;VALUE=DATE:20260116
-SUMMARY:Furr Elementary School Lunch – Jan 15
-DESCRIPTION:Menu:\n- Sun Butter & Jelly Sandwich\n- Cheeseburger\n- Grilled\nCheese\n- Tater Tots\n- Fresh Cucumber Slices\n- Grape Juice\n-\nStrawberry Banana Applesauce\n- Low Sodium Ketchup\n- Mayonnaise\n-\nMustard\n- Ranch Dressing\n- Spicy Chicken and Street Corn Mac &\nCheese\n- Chocolate Skim Milk\n- 1% Milk
-END:VEVENT
-BEGIN:VEVENT
-UID:furr-elementary-lunch-20260116@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
-DTSTART;VALUE=DATE:20260116
-DTEND;VALUE=DATE:20260117
-SUMMARY:Furr Elementary School Lunch – Jan 16
-DESCRIPTION:Menu:\n- Pepperoni Pizza\n- Cheese Pizza\n- Sun Butter & Jelly\nSandwich\n- Pretzel, Yogurt & Cheese Pack\n- Baby Carrots\n- Tossed\nSalad\n- Fresh Banana\n- Apple Juice\n- Ranch Dressing\n- Sriracha\nRanch Dressing\n- BBQ Chicken Sriracha Glazed Crust Pizza\n- Chocolate\nSkim Milk\n- 1% Milk
-END:VEVENT
-BEGIN:VEVENT
 UID:furr-elementary-lunch-20260119@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260119
 DTEND;VALUE=DATE:20260120
 SUMMARY:Furr Elementary School Lunch – Jan 19 (No Menu Listed)
@@ -54,7 +14,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260120@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260120
 DTEND;VALUE=DATE:20260121
 SUMMARY:Furr Elementary School Lunch – Jan 20
@@ -62,7 +22,7 @@ DESCRIPTION:Menu:\n- Chicken Nachos\n- Sun Butter & Jelly Sandwich\n- Chicken\nN
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260121@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260121
 DTEND;VALUE=DATE:20260122
 SUMMARY:Furr Elementary School Lunch – Jan 21
@@ -70,7 +30,7 @@ DESCRIPTION:Menu:\n- Mini Eggo Waffle\n- Turkey Sausage Link\n- Pancake Syrup\n-
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260122@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260122
 DTEND;VALUE=DATE:20260123
 SUMMARY:Furr Elementary School Lunch – Jan 22
@@ -78,7 +38,7 @@ DESCRIPTION:Menu:\n- Penne w/ Tomato Alfredo & Chicken\n- Sun Butter & Jelly\nSa
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260123@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260123
 DTEND;VALUE=DATE:20260124
 SUMMARY:Furr Elementary School Lunch – Jan 23
@@ -86,7 +46,7 @@ DESCRIPTION:Menu:\n- Pepperoni Pizza\n- Cheese Pizza\n- Sun Butter & Jelly\nSand
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260126@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260126
 DTEND;VALUE=DATE:20260127
 SUMMARY:Furr Elementary School Lunch – Jan 26
@@ -94,7 +54,7 @@ DESCRIPTION:Menu:\n- Chicken Patty Sliders\n- Sun Butter & Jelly Sandwich\n- Bea
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260127@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260127
 DTEND;VALUE=DATE:20260128
 SUMMARY:Furr Elementary School Lunch – Jan 27
@@ -102,7 +62,7 @@ DESCRIPTION:Menu:\n- Chicken Soft Tacos\n- Sun Butter & Jelly Sandwich\n- Chicke
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260128@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260128
 DTEND;VALUE=DATE:20260129
 SUMMARY:Furr Elementary School Lunch – Jan 28
@@ -110,7 +70,7 @@ DESCRIPTION:Menu:\n- French Toast Sticks\n- Turkey Sausage Patties\n- Pancake\nS
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260129@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260129
 DTEND;VALUE=DATE:20260130
 SUMMARY:Furr Elementary School Lunch – Jan 29
@@ -118,7 +78,7 @@ DESCRIPTION:Menu:\n- Asian Steamed Vegetable Dumpling\n- Fried Rice w/\nVegetabl
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260130@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260130
 DTEND;VALUE=DATE:20260131
 SUMMARY:Furr Elementary School Lunch – Jan 30
@@ -126,7 +86,7 @@ DESCRIPTION:Menu:\n- Pepperoni Pizza\n- Cheese Pizza\n- Sun Butter & Jelly\nSand
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260202@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260202
 DTEND;VALUE=DATE:20260203
 SUMMARY:Furr Elementary School Lunch – Feb 02
@@ -134,7 +94,7 @@ DESCRIPTION:Menu:\n- Macaroni & Cheese\n- Dinner Roll\n- Sun Butter & Jelly\nSan
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260203@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260203
 DTEND;VALUE=DATE:20260204
 SUMMARY:Furr Elementary School Lunch – Feb 03
@@ -142,7 +102,7 @@ DESCRIPTION:Menu:\n- Beef Nachos\n- Sun Butter & Jelly Sandwich\n- Max Stix w/\n
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260204@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260204
 DTEND;VALUE=DATE:20260205
 SUMMARY:Furr Elementary School Lunch – Feb 04
@@ -150,7 +110,7 @@ DESCRIPTION:Menu:\n- Pizza Waffalaco\n- Sun Butter & Jelly Sandwich\n- Chicken\n
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260205@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260205
 DTEND;VALUE=DATE:20260206
 SUMMARY:Furr Elementary School Lunch – Feb 05
@@ -158,7 +118,7 @@ DESCRIPTION:Menu:\n- Popcorn Chicken & Orange Sauce\n- Brown Rice\n- Sun Butter 
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260206@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260206
 DTEND;VALUE=DATE:20260207
 SUMMARY:Furr Elementary School Lunch – Feb 06
@@ -166,7 +126,7 @@ DESCRIPTION:Menu:\n- Pepperoni Pizza\n- Cheese Pizza\n- Sun Butter & Jelly\nSand
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260209@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260209
 DTEND;VALUE=DATE:20260210
 SUMMARY:Furr Elementary School Lunch – Feb 09
@@ -174,7 +134,7 @@ DESCRIPTION:Menu:\n- Honey Stung Popcorn Chicken\n- Dinner Roll\n- Sun Butter &\
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260210@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260210
 DTEND;VALUE=DATE:20260211
 SUMMARY:Furr Elementary School Lunch – Feb 10
@@ -182,7 +142,7 @@ DESCRIPTION:Menu:\n- Beef Soft Tacos\n- Sun Butter & Jelly Sandwich\n- Galaxy\nC
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260211@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260211
 DTEND;VALUE=DATE:20260212
 SUMMARY:Furr Elementary School Lunch – Feb 11
@@ -190,7 +150,7 @@ DESCRIPTION:Menu:\n- Pancakes\n- Turkey Sausage Link\n- Syrup\n- Sun Butter &\nJ
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260212@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260212
 DTEND;VALUE=DATE:20260213
 SUMMARY:Furr Elementary School Lunch – Feb 12
@@ -198,7 +158,7 @@ DESCRIPTION:Menu:\n- Penne Alfredo w/ Chicken\n- Sun Butter & Jelly Sandwich\n-\
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260213@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260213
 DTEND;VALUE=DATE:20260214
 SUMMARY:Furr Elementary School Lunch – Feb 13 (No Menu Listed)
@@ -206,7 +166,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260216@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260216
 DTEND;VALUE=DATE:20260217
 SUMMARY:Furr Elementary School Lunch – Feb 16
@@ -214,7 +174,7 @@ DESCRIPTION:Menu:\n- Breaded Steak Fingers\n- Dinner Roll\n- Country Gravy\n- Su
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260217@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260217
 DTEND;VALUE=DATE:20260218
 SUMMARY:Furr Elementary School Lunch – Feb 17
@@ -222,7 +182,7 @@ DESCRIPTION:Menu:\n- Sun Butter & Jelly Sandwich\n- Max Stix w/ Dipping Sauce\n-
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260218@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260218
 DTEND;VALUE=DATE:20260219
 SUMMARY:Furr Elementary School Lunch – Feb 18
@@ -230,7 +190,7 @@ DESCRIPTION:Menu:\n- French Toast Sticks\n- Turkey Sausage Patties\n- Pancake\nS
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260219@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260219
 DTEND;VALUE=DATE:20260220
 SUMMARY:Furr Elementary School Lunch – Feb 19
@@ -238,7 +198,7 @@ DESCRIPTION:Menu:\n- Spaghetti Sauce w/ Ground Beef\n- Spaghetti\n- Marinara\nSa
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260220@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260220
 DTEND;VALUE=DATE:20260221
 SUMMARY:Furr Elementary School Lunch – Feb 20
@@ -246,47 +206,47 @@ DESCRIPTION:Menu:\n- Pepperoni Pizza\n- Cheese Pizza\n- Sun Butter & Jelly\nSand
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260223@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260223
 DTEND;VALUE=DATE:20260224
-SUMMARY:Furr Elementary School Lunch – Feb 23 (No Menu Listed)
-DESCRIPTION:No lunch menu items were listed for this date.
+SUMMARY:Furr Elementary School Lunch – Feb 23
+DESCRIPTION:Menu:\n- Chicken Tenders\n- Fresh Baked Breadstick\n- Sun Butter &\nJelly Sandwich\n- Cheese Stuffed Breadsticks\n- Make-Your-Own\nFlatbread Mozzarella Pizza\n- Curly Fries\n- Red Peppers Fresh\n-\nFresh Apple Wedges\n- Apple Juice\n- Low Sodium Ketchup\n-\nMayonnaise\n- Mustard\n- Ranch Dressing\n- Chocolate Skim Milk\n- 1%\nMilk
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260224@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260224
 DTEND;VALUE=DATE:20260225
-SUMMARY:Furr Elementary School Lunch – Feb 24 (No Menu Listed)
-DESCRIPTION:No lunch menu items were listed for this date.
+SUMMARY:Furr Elementary School Lunch – Feb 24
+DESCRIPTION:Menu:\n- Chicken Nachos\n- Sun Butter & Jelly Sandwich\n- Chicken\nNuggets\n- Fresh Baked Breadstick\n- Popcorn Chicken Salad\n- Dinner\nRoll\n- Ranch Dressing\n- Fresh Broccoli\n- Kickin' Pintos\n- Fresh\nOrange Wedges\n- Grape Juice\n- Low Sodium Ketchup\n- Mayonnaise\n-\nMustard\n- Chocolate Skim Milk\n- 1% Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260225@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260225
 DTEND;VALUE=DATE:20260226
-SUMMARY:Furr Elementary School Lunch – Feb 25 (No Menu Listed)
-DESCRIPTION:No lunch menu items were listed for this date.
+SUMMARY:Furr Elementary School Lunch – Feb 25
+DESCRIPTION:Menu:\n- Mini Eggo Waffle\n- Turkey Sausage Link\n- Pancake Syrup\n-\nSun Butter & Jelly Sandwich\n- Cheeseburger\n- Cheese Pizzadilla\n-\nTater Tots\n- Fresh Celery Sticks\n- Fresh Pear\n- Apple Juice\n- Low\nSodium Ketchup\n- Mayonnaise\n- Mustard\n- Ranch Dressing\n- Chocolate\nSkim Milk\n- 1% Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260226@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260226
 DTEND;VALUE=DATE:20260227
-SUMMARY:Furr Elementary School Lunch – Feb 26 (No Menu Listed)
-DESCRIPTION:No lunch menu items were listed for this date.
+SUMMARY:Furr Elementary School Lunch – Feb 26
+DESCRIPTION:Menu:\n- Penne w/ Tomato Alfredo & Chicken\n- Sun Butter & Jelly\nSandwich\n- Chicken Patty Sandwich\n- Grilled Cheese\n- Sweet Golden\nCorn\n- Fresh Zucchini\n- Grape Juice\n- Strawberry Banana\nApplesauce\n- Low Sodium Ketchup\n- Mayonnaise\n- Mustard\n- Ranch\nDressing\n- Chocolate Skim Milk\n- 1% Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260227@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260227
 DTEND;VALUE=DATE:20260228
-SUMMARY:Furr Elementary School Lunch – Feb 27 (No Menu Listed)
-DESCRIPTION:No lunch menu items were listed for this date.
+SUMMARY:Furr Elementary School Lunch – Feb 27
+DESCRIPTION:Menu:\n- Pepperoni Pizza\n- Cheese Pizza\n- Sun Butter & Jelly\nSandwich\n- Pretzel, Yogurt & Cheese Pack\n- Baby Carrots\n- Tossed\nSalad\n- Fresh Banana\n- Apple Juice\n- Low Sodium Ketchup\n-\nMayonnaise\n- Mustard\n- Ranch Dressing\n- Chocolate Skim Milk\n- 1%\nMilk
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260302@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260302
 DTEND;VALUE=DATE:20260303
 SUMMARY:Furr Elementary School Lunch – Mar 02 (No Menu Listed)
@@ -294,7 +254,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260303@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260303
 DTEND;VALUE=DATE:20260304
 SUMMARY:Furr Elementary School Lunch – Mar 03 (No Menu Listed)
@@ -302,7 +262,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260304@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260304
 DTEND;VALUE=DATE:20260305
 SUMMARY:Furr Elementary School Lunch – Mar 04 (No Menu Listed)
@@ -310,7 +270,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260305@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260305
 DTEND;VALUE=DATE:20260306
 SUMMARY:Furr Elementary School Lunch – Mar 05 (No Menu Listed)
@@ -318,7 +278,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260306@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260306
 DTEND;VALUE=DATE:20260307
 SUMMARY:Furr Elementary School Lunch – Mar 06 (No Menu Listed)
@@ -326,7 +286,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260309@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260309
 DTEND;VALUE=DATE:20260310
 SUMMARY:Furr Elementary School Lunch – Mar 09 (No Menu Listed)
@@ -334,7 +294,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260310@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260310
 DTEND;VALUE=DATE:20260311
 SUMMARY:Furr Elementary School Lunch – Mar 10 (No Menu Listed)
@@ -342,7 +302,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260311@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260311
 DTEND;VALUE=DATE:20260312
 SUMMARY:Furr Elementary School Lunch – Mar 11 (No Menu Listed)
@@ -350,7 +310,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260312@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260312
 DTEND;VALUE=DATE:20260313
 SUMMARY:Furr Elementary School Lunch – Mar 12 (No Menu Listed)
@@ -358,7 +318,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260313@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260313
 DTEND;VALUE=DATE:20260314
 SUMMARY:Furr Elementary School Lunch – Mar 13 (No Menu Listed)
@@ -366,7 +326,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260316@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260316
 DTEND;VALUE=DATE:20260317
 SUMMARY:Furr Elementary School Lunch – Mar 16 (No Menu Listed)
@@ -374,7 +334,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260317@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260317
 DTEND;VALUE=DATE:20260318
 SUMMARY:Furr Elementary School Lunch – Mar 17 (No Menu Listed)
@@ -382,7 +342,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260318@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260318
 DTEND;VALUE=DATE:20260319
 SUMMARY:Furr Elementary School Lunch – Mar 18 (No Menu Listed)
@@ -390,7 +350,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260319@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260319
 DTEND;VALUE=DATE:20260320
 SUMMARY:Furr Elementary School Lunch – Mar 19 (No Menu Listed)
@@ -398,7 +358,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260320@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260320
 DTEND;VALUE=DATE:20260321
 SUMMARY:Furr Elementary School Lunch – Mar 20 (No Menu Listed)
@@ -406,7 +366,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260323@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260323
 DTEND;VALUE=DATE:20260324
 SUMMARY:Furr Elementary School Lunch – Mar 23 (No Menu Listed)
@@ -414,7 +374,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260324@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260324
 DTEND;VALUE=DATE:20260325
 SUMMARY:Furr Elementary School Lunch – Mar 24 (No Menu Listed)
@@ -422,7 +382,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260325@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260325
 DTEND;VALUE=DATE:20260326
 SUMMARY:Furr Elementary School Lunch – Mar 25 (No Menu Listed)
@@ -430,7 +390,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260326@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260326
 DTEND;VALUE=DATE:20260327
 SUMMARY:Furr Elementary School Lunch – Mar 26 (No Menu Listed)
@@ -438,7 +398,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260327@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260327
 DTEND;VALUE=DATE:20260328
 SUMMARY:Furr Elementary School Lunch – Mar 27 (No Menu Listed)
@@ -446,7 +406,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260330@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260330
 DTEND;VALUE=DATE:20260331
 SUMMARY:Furr Elementary School Lunch – Mar 30 (No Menu Listed)
@@ -454,7 +414,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260331@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260331
 DTEND;VALUE=DATE:20260401
 SUMMARY:Furr Elementary School Lunch – Mar 31 (No Menu Listed)
@@ -462,7 +422,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260401@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260401
 DTEND;VALUE=DATE:20260402
 SUMMARY:Furr Elementary School Lunch – Apr 01 (No Menu Listed)
@@ -470,7 +430,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260402@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260402
 DTEND;VALUE=DATE:20260403
 SUMMARY:Furr Elementary School Lunch – Apr 02 (No Menu Listed)
@@ -478,7 +438,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260403@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260403
 DTEND;VALUE=DATE:20260404
 SUMMARY:Furr Elementary School Lunch – Apr 03 (No Menu Listed)
@@ -486,7 +446,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260406@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260406
 DTEND;VALUE=DATE:20260407
 SUMMARY:Furr Elementary School Lunch – Apr 06 (No Menu Listed)
@@ -494,7 +454,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260407@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260407
 DTEND;VALUE=DATE:20260408
 SUMMARY:Furr Elementary School Lunch – Apr 07 (No Menu Listed)
@@ -502,7 +462,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260408@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260408
 DTEND;VALUE=DATE:20260409
 SUMMARY:Furr Elementary School Lunch – Apr 08 (No Menu Listed)
@@ -510,7 +470,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260409@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260409
 DTEND;VALUE=DATE:20260410
 SUMMARY:Furr Elementary School Lunch – Apr 09 (No Menu Listed)
@@ -518,7 +478,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260410@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260410
 DTEND;VALUE=DATE:20260411
 SUMMARY:Furr Elementary School Lunch – Apr 10 (No Menu Listed)
@@ -526,7 +486,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260413@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260413
 DTEND;VALUE=DATE:20260414
 SUMMARY:Furr Elementary School Lunch – Apr 13 (No Menu Listed)
@@ -534,7 +494,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260414@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260414
 DTEND;VALUE=DATE:20260415
 SUMMARY:Furr Elementary School Lunch – Apr 14 (No Menu Listed)
@@ -542,7 +502,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260415@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260415
 DTEND;VALUE=DATE:20260416
 SUMMARY:Furr Elementary School Lunch – Apr 15 (No Menu Listed)
@@ -550,7 +510,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260416@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260416
 DTEND;VALUE=DATE:20260417
 SUMMARY:Furr Elementary School Lunch – Apr 16 (No Menu Listed)
@@ -558,7 +518,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260417@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260417
 DTEND;VALUE=DATE:20260418
 SUMMARY:Furr Elementary School Lunch – Apr 17 (No Menu Listed)
@@ -566,7 +526,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260420@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260420
 DTEND;VALUE=DATE:20260421
 SUMMARY:Furr Elementary School Lunch – Apr 20 (No Menu Listed)
@@ -574,7 +534,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260421@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260421
 DTEND;VALUE=DATE:20260422
 SUMMARY:Furr Elementary School Lunch – Apr 21 (No Menu Listed)
@@ -582,7 +542,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260422@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260422
 DTEND;VALUE=DATE:20260423
 SUMMARY:Furr Elementary School Lunch – Apr 22 (No Menu Listed)
@@ -590,7 +550,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260423@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260423
 DTEND;VALUE=DATE:20260424
 SUMMARY:Furr Elementary School Lunch – Apr 23 (No Menu Listed)
@@ -598,7 +558,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260424@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260424
 DTEND;VALUE=DATE:20260425
 SUMMARY:Furr Elementary School Lunch – Apr 24 (No Menu Listed)
@@ -606,7 +566,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260427@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260427
 DTEND;VALUE=DATE:20260428
 SUMMARY:Furr Elementary School Lunch – Apr 27 (No Menu Listed)
@@ -614,7 +574,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260428@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260428
 DTEND;VALUE=DATE:20260429
 SUMMARY:Furr Elementary School Lunch – Apr 28 (No Menu Listed)
@@ -622,7 +582,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260429@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260429
 DTEND;VALUE=DATE:20260430
 SUMMARY:Furr Elementary School Lunch – Apr 29 (No Menu Listed)
@@ -630,7 +590,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260430@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260430
 DTEND;VALUE=DATE:20260501
 SUMMARY:Furr Elementary School Lunch – Apr 30 (No Menu Listed)
@@ -638,7 +598,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260501@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
 SUMMARY:Furr Elementary School Lunch – May 01 (No Menu Listed)
@@ -646,7 +606,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260504@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260504
 DTEND;VALUE=DATE:20260505
 SUMMARY:Furr Elementary School Lunch – May 04 (No Menu Listed)
@@ -654,7 +614,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260505@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260505
 DTEND;VALUE=DATE:20260506
 SUMMARY:Furr Elementary School Lunch – May 05 (No Menu Listed)
@@ -662,7 +622,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260506@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260506
 DTEND;VALUE=DATE:20260507
 SUMMARY:Furr Elementary School Lunch – May 06 (No Menu Listed)
@@ -670,7 +630,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260507@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260507
 DTEND;VALUE=DATE:20260508
 SUMMARY:Furr Elementary School Lunch – May 07 (No Menu Listed)
@@ -678,7 +638,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260508@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260508
 DTEND;VALUE=DATE:20260509
 SUMMARY:Furr Elementary School Lunch – May 08 (No Menu Listed)
@@ -686,7 +646,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260511@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260511
 DTEND;VALUE=DATE:20260512
 SUMMARY:Furr Elementary School Lunch – May 11 (No Menu Listed)
@@ -694,7 +654,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260512@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260512
 DTEND;VALUE=DATE:20260513
 SUMMARY:Furr Elementary School Lunch – May 12 (No Menu Listed)
@@ -702,7 +662,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260513@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260513
 DTEND;VALUE=DATE:20260514
 SUMMARY:Furr Elementary School Lunch – May 13 (No Menu Listed)
@@ -710,7 +670,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260514@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260514
 DTEND;VALUE=DATE:20260515
 SUMMARY:Furr Elementary School Lunch – May 14 (No Menu Listed)
@@ -718,7 +678,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260515@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260516
 SUMMARY:Furr Elementary School Lunch – May 15 (No Menu Listed)
@@ -726,7 +686,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260518@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260518
 DTEND;VALUE=DATE:20260519
 SUMMARY:Furr Elementary School Lunch – May 18 (No Menu Listed)
@@ -734,7 +694,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260519@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260519
 DTEND;VALUE=DATE:20260520
 SUMMARY:Furr Elementary School Lunch – May 19 (No Menu Listed)
@@ -742,7 +702,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260520@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260520
 DTEND;VALUE=DATE:20260521
 SUMMARY:Furr Elementary School Lunch – May 20 (No Menu Listed)
@@ -750,7 +710,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260521@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260521
 DTEND;VALUE=DATE:20260522
 SUMMARY:Furr Elementary School Lunch – May 21 (No Menu Listed)
@@ -758,7 +718,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260522@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260522
 DTEND;VALUE=DATE:20260523
 SUMMARY:Furr Elementary School Lunch – May 22 (No Menu Listed)
@@ -766,7 +726,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260525@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260525
 DTEND;VALUE=DATE:20260526
 SUMMARY:Furr Elementary School Lunch – May 25 (No Menu Listed)
@@ -774,7 +734,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260526@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260526
 DTEND;VALUE=DATE:20260527
 SUMMARY:Furr Elementary School Lunch – May 26 (No Menu Listed)
@@ -782,7 +742,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260527@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260527
 DTEND;VALUE=DATE:20260528
 SUMMARY:Furr Elementary School Lunch – May 27 (No Menu Listed)
@@ -790,7 +750,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260528@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260528
 DTEND;VALUE=DATE:20260529
 SUMMARY:Furr Elementary School Lunch – May 28 (No Menu Listed)
@@ -798,7 +758,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260529@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260529
 DTEND;VALUE=DATE:20260530
 SUMMARY:Furr Elementary School Lunch – May 29 (No Menu Listed)
@@ -806,7 +766,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260601@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260601
 DTEND;VALUE=DATE:20260602
 SUMMARY:Furr Elementary School Lunch – Jun 01 (No Menu Listed)
@@ -814,7 +774,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260602@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260602
 DTEND;VALUE=DATE:20260603
 SUMMARY:Furr Elementary School Lunch – Jun 02 (No Menu Listed)
@@ -822,7 +782,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260603@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260603
 DTEND;VALUE=DATE:20260604
 SUMMARY:Furr Elementary School Lunch – Jun 03 (No Menu Listed)
@@ -830,7 +790,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260604@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260604
 DTEND;VALUE=DATE:20260605
 SUMMARY:Furr Elementary School Lunch – Jun 04 (No Menu Listed)
@@ -838,7 +798,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260605@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260605
 DTEND;VALUE=DATE:20260606
 SUMMARY:Furr Elementary School Lunch – Jun 05 (No Menu Listed)
@@ -846,7 +806,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260608@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260608
 DTEND;VALUE=DATE:20260609
 SUMMARY:Furr Elementary School Lunch – Jun 08 (No Menu Listed)
@@ -854,7 +814,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260609@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260609
 DTEND;VALUE=DATE:20260610
 SUMMARY:Furr Elementary School Lunch – Jun 09 (No Menu Listed)
@@ -862,7 +822,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260610@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260610
 DTEND;VALUE=DATE:20260611
 SUMMARY:Furr Elementary School Lunch – Jun 10 (No Menu Listed)
@@ -870,7 +830,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260611@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260611
 DTEND;VALUE=DATE:20260612
 SUMMARY:Furr Elementary School Lunch – Jun 11 (No Menu Listed)
@@ -878,7 +838,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260612@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260612
 DTEND;VALUE=DATE:20260613
 SUMMARY:Furr Elementary School Lunch – Jun 12 (No Menu Listed)
@@ -886,7 +846,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260615@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260615
 DTEND;VALUE=DATE:20260616
 SUMMARY:Furr Elementary School Lunch – Jun 15 (No Menu Listed)
@@ -894,7 +854,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260616@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260616
 DTEND;VALUE=DATE:20260617
 SUMMARY:Furr Elementary School Lunch – Jun 16 (No Menu Listed)
@@ -902,7 +862,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260617@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260617
 DTEND;VALUE=DATE:20260618
 SUMMARY:Furr Elementary School Lunch – Jun 17 (No Menu Listed)
@@ -910,7 +870,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260618@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260618
 DTEND;VALUE=DATE:20260619
 SUMMARY:Furr Elementary School Lunch – Jun 18 (No Menu Listed)
@@ -918,7 +878,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260619@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260619
 DTEND;VALUE=DATE:20260620
 SUMMARY:Furr Elementary School Lunch – Jun 19 (No Menu Listed)
@@ -926,7 +886,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260622@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260622
 DTEND;VALUE=DATE:20260623
 SUMMARY:Furr Elementary School Lunch – Jun 22 (No Menu Listed)
@@ -934,7 +894,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260623@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260623
 DTEND;VALUE=DATE:20260624
 SUMMARY:Furr Elementary School Lunch – Jun 23 (No Menu Listed)
@@ -942,7 +902,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260624@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260624
 DTEND;VALUE=DATE:20260625
 SUMMARY:Furr Elementary School Lunch – Jun 24 (No Menu Listed)
@@ -950,7 +910,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260625@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260625
 DTEND;VALUE=DATE:20260626
 SUMMARY:Furr Elementary School Lunch – Jun 25 (No Menu Listed)
@@ -958,7 +918,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260626@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260626
 DTEND;VALUE=DATE:20260627
 SUMMARY:Furr Elementary School Lunch – Jun 26 (No Menu Listed)
@@ -966,7 +926,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260629@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260629
 DTEND;VALUE=DATE:20260630
 SUMMARY:Furr Elementary School Lunch – Jun 29 (No Menu Listed)
@@ -974,7 +934,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260630@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260630
 DTEND;VALUE=DATE:20260701
 SUMMARY:Furr Elementary School Lunch – Jun 30 (No Menu Listed)
@@ -982,7 +942,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260701@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260702
 SUMMARY:Furr Elementary School Lunch – Jul 01 (No Menu Listed)
@@ -990,7 +950,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260702@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260702
 DTEND;VALUE=DATE:20260703
 SUMMARY:Furr Elementary School Lunch – Jul 02 (No Menu Listed)
@@ -998,7 +958,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260703@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260703
 DTEND;VALUE=DATE:20260704
 SUMMARY:Furr Elementary School Lunch – Jul 03 (No Menu Listed)
@@ -1006,7 +966,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260706@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260706
 DTEND;VALUE=DATE:20260707
 SUMMARY:Furr Elementary School Lunch – Jul 06 (No Menu Listed)
@@ -1014,7 +974,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260707@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260707
 DTEND;VALUE=DATE:20260708
 SUMMARY:Furr Elementary School Lunch – Jul 07 (No Menu Listed)
@@ -1022,7 +982,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260708@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260708
 DTEND;VALUE=DATE:20260709
 SUMMARY:Furr Elementary School Lunch – Jul 08 (No Menu Listed)
@@ -1030,7 +990,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260709@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260709
 DTEND;VALUE=DATE:20260710
 SUMMARY:Furr Elementary School Lunch – Jul 09 (No Menu Listed)
@@ -1038,7 +998,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260710@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260710
 DTEND;VALUE=DATE:20260711
 SUMMARY:Furr Elementary School Lunch – Jul 10 (No Menu Listed)
@@ -1046,7 +1006,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260713@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260713
 DTEND;VALUE=DATE:20260714
 SUMMARY:Furr Elementary School Lunch – Jul 13 (No Menu Listed)
@@ -1054,7 +1014,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260714@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260714
 DTEND;VALUE=DATE:20260715
 SUMMARY:Furr Elementary School Lunch – Jul 14 (No Menu Listed)
@@ -1062,7 +1022,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260715@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260715
 DTEND;VALUE=DATE:20260716
 SUMMARY:Furr Elementary School Lunch – Jul 15 (No Menu Listed)
@@ -1070,7 +1030,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260716@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260716
 DTEND;VALUE=DATE:20260717
 SUMMARY:Furr Elementary School Lunch – Jul 16 (No Menu Listed)
@@ -1078,7 +1038,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260717@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260717
 DTEND;VALUE=DATE:20260718
 SUMMARY:Furr Elementary School Lunch – Jul 17 (No Menu Listed)
@@ -1086,7 +1046,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260720@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260720
 DTEND;VALUE=DATE:20260721
 SUMMARY:Furr Elementary School Lunch – Jul 20 (No Menu Listed)
@@ -1094,7 +1054,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260721@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260721
 DTEND;VALUE=DATE:20260722
 SUMMARY:Furr Elementary School Lunch – Jul 21 (No Menu Listed)
@@ -1102,7 +1062,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260722@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260722
 DTEND;VALUE=DATE:20260723
 SUMMARY:Furr Elementary School Lunch – Jul 22 (No Menu Listed)
@@ -1110,7 +1070,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260723@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260723
 DTEND;VALUE=DATE:20260724
 SUMMARY:Furr Elementary School Lunch – Jul 23 (No Menu Listed)
@@ -1118,7 +1078,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260724@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260724
 DTEND;VALUE=DATE:20260725
 SUMMARY:Furr Elementary School Lunch – Jul 24 (No Menu Listed)
@@ -1126,7 +1086,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260727@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260727
 DTEND;VALUE=DATE:20260728
 SUMMARY:Furr Elementary School Lunch – Jul 27 (No Menu Listed)
@@ -1134,7 +1094,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260728@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260728
 DTEND;VALUE=DATE:20260729
 SUMMARY:Furr Elementary School Lunch – Jul 28 (No Menu Listed)
@@ -1142,7 +1102,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260729@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260729
 DTEND;VALUE=DATE:20260730
 SUMMARY:Furr Elementary School Lunch – Jul 29 (No Menu Listed)
@@ -1150,7 +1110,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260730@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260730
 DTEND;VALUE=DATE:20260731
 SUMMARY:Furr Elementary School Lunch – Jul 30 (No Menu Listed)
@@ -1158,7 +1118,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260731@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20260801
 SUMMARY:Furr Elementary School Lunch – Jul 31 (No Menu Listed)
@@ -1166,7 +1126,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260803@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260803
 DTEND;VALUE=DATE:20260804
 SUMMARY:Furr Elementary School Lunch – Aug 03 (No Menu Listed)
@@ -1174,7 +1134,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260804@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260804
 DTEND;VALUE=DATE:20260805
 SUMMARY:Furr Elementary School Lunch – Aug 04 (No Menu Listed)
@@ -1182,7 +1142,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260805@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260805
 DTEND;VALUE=DATE:20260806
 SUMMARY:Furr Elementary School Lunch – Aug 05 (No Menu Listed)
@@ -1190,7 +1150,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260806@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260806
 DTEND;VALUE=DATE:20260807
 SUMMARY:Furr Elementary School Lunch – Aug 06 (No Menu Listed)
@@ -1198,7 +1158,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260807@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260808
 SUMMARY:Furr Elementary School Lunch – Aug 07 (No Menu Listed)
@@ -1206,7 +1166,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260810@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260810
 DTEND;VALUE=DATE:20260811
 SUMMARY:Furr Elementary School Lunch – Aug 10 (No Menu Listed)
@@ -1214,7 +1174,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260811@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260811
 DTEND;VALUE=DATE:20260812
 SUMMARY:Furr Elementary School Lunch – Aug 11 (No Menu Listed)
@@ -1222,7 +1182,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260812@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260812
 DTEND;VALUE=DATE:20260813
 SUMMARY:Furr Elementary School Lunch – Aug 12 (No Menu Listed)
@@ -1230,7 +1190,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260813@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260813
 DTEND;VALUE=DATE:20260814
 SUMMARY:Furr Elementary School Lunch – Aug 13 (No Menu Listed)
@@ -1238,7 +1198,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260814@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260814
 DTEND;VALUE=DATE:20260815
 SUMMARY:Furr Elementary School Lunch – Aug 14 (No Menu Listed)
@@ -1246,7 +1206,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260817@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260817
 DTEND;VALUE=DATE:20260818
 SUMMARY:Furr Elementary School Lunch – Aug 17 (No Menu Listed)
@@ -1254,7 +1214,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260818@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260818
 DTEND;VALUE=DATE:20260819
 SUMMARY:Furr Elementary School Lunch – Aug 18 (No Menu Listed)
@@ -1262,7 +1222,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260819@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
 SUMMARY:Furr Elementary School Lunch – Aug 19 (No Menu Listed)
@@ -1270,7 +1230,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260820@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
 SUMMARY:Furr Elementary School Lunch – Aug 20 (No Menu Listed)
@@ -1278,7 +1238,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260821@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260822
 SUMMARY:Furr Elementary School Lunch – Aug 21 (No Menu Listed)
@@ -1286,7 +1246,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260824@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260825
 SUMMARY:Furr Elementary School Lunch – Aug 24 (No Menu Listed)
@@ -1294,7 +1254,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260825@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20260826
 SUMMARY:Furr Elementary School Lunch – Aug 25 (No Menu Listed)
@@ -1302,7 +1262,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260826@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
 SUMMARY:Furr Elementary School Lunch – Aug 26 (No Menu Listed)
@@ -1310,7 +1270,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260827@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
 SUMMARY:Furr Elementary School Lunch – Aug 27 (No Menu Listed)
@@ -1318,7 +1278,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260828@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260829
 SUMMARY:Furr Elementary School Lunch – Aug 28 (No Menu Listed)
@@ -1326,7 +1286,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260831@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260901
 SUMMARY:Furr Elementary School Lunch – Aug 31 (No Menu Listed)
@@ -1334,7 +1294,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260901@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
 SUMMARY:Furr Elementary School Lunch – Sep 01 (No Menu Listed)
@@ -1342,7 +1302,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260902@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260902
 DTEND;VALUE=DATE:20260903
 SUMMARY:Furr Elementary School Lunch – Sep 02 (No Menu Listed)
@@ -1350,7 +1310,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260903@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260903
 DTEND;VALUE=DATE:20260904
 SUMMARY:Furr Elementary School Lunch – Sep 03 (No Menu Listed)
@@ -1358,7 +1318,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260904@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Furr Elementary School Lunch – Sep 04 (No Menu Listed)
@@ -1366,7 +1326,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260907@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20260908
 SUMMARY:Furr Elementary School Lunch – Sep 07 (No Menu Listed)
@@ -1374,7 +1334,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260908@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:Furr Elementary School Lunch – Sep 08 (No Menu Listed)
@@ -1382,7 +1342,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260909@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260910
 SUMMARY:Furr Elementary School Lunch – Sep 09 (No Menu Listed)
@@ -1390,7 +1350,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260910@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Furr Elementary School Lunch – Sep 10 (No Menu Listed)
@@ -1398,7 +1358,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260911@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260912
 SUMMARY:Furr Elementary School Lunch – Sep 11 (No Menu Listed)
@@ -1406,7 +1366,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260914@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Furr Elementary School Lunch – Sep 14 (No Menu Listed)
@@ -1414,7 +1374,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260915@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Furr Elementary School Lunch – Sep 15 (No Menu Listed)
@@ -1422,7 +1382,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260916@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260917
 SUMMARY:Furr Elementary School Lunch – Sep 16 (No Menu Listed)
@@ -1430,7 +1390,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260917@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Furr Elementary School Lunch – Sep 17 (No Menu Listed)
@@ -1438,7 +1398,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260918@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Furr Elementary School Lunch – Sep 18 (No Menu Listed)
@@ -1446,7 +1406,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260921@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
 SUMMARY:Furr Elementary School Lunch – Sep 21 (No Menu Listed)
@@ -1454,7 +1414,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260922@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
 SUMMARY:Furr Elementary School Lunch – Sep 22 (No Menu Listed)
@@ -1462,7 +1422,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260923@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:Furr Elementary School Lunch – Sep 23 (No Menu Listed)
@@ -1470,7 +1430,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260924@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Furr Elementary School Lunch – Sep 24 (No Menu Listed)
@@ -1478,7 +1438,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260925@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:Furr Elementary School Lunch – Sep 25 (No Menu Listed)
@@ -1486,7 +1446,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260928@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 SUMMARY:Furr Elementary School Lunch – Sep 28 (No Menu Listed)
@@ -1494,7 +1454,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260929@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:Furr Elementary School Lunch – Sep 29 (No Menu Listed)
@@ -1502,7 +1462,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20260930@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 SUMMARY:Furr Elementary School Lunch – Sep 30 (No Menu Listed)
@@ -1510,7 +1470,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20261001@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Furr Elementary School Lunch – Oct 01 (No Menu Listed)
@@ -1518,7 +1478,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20261002@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Furr Elementary School Lunch – Oct 02 (No Menu Listed)
@@ -1526,7 +1486,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20261005@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
 SUMMARY:Furr Elementary School Lunch – Oct 05 (No Menu Listed)
@@ -1534,7 +1494,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20261006@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:Furr Elementary School Lunch – Oct 06 (No Menu Listed)
@@ -1542,7 +1502,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20261007@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
 SUMMARY:Furr Elementary School Lunch – Oct 07 (No Menu Listed)
@@ -1550,7 +1510,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20261008@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Furr Elementary School Lunch – Oct 08 (No Menu Listed)
@@ -1558,7 +1518,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20261009@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Furr Elementary School Lunch – Oct 09 (No Menu Listed)
@@ -1566,7 +1526,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20261012@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:Furr Elementary School Lunch – Oct 12 (No Menu Listed)
@@ -1574,7 +1534,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20261013@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Furr Elementary School Lunch – Oct 13 (No Menu Listed)
@@ -1582,7 +1542,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20261014@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:Furr Elementary School Lunch – Oct 14 (No Menu Listed)
@@ -1590,7 +1550,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20261015@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Furr Elementary School Lunch – Oct 15 (No Menu Listed)
@@ -1598,7 +1558,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20261016@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:Furr Elementary School Lunch – Oct 16 (No Menu Listed)
@@ -1606,7 +1566,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20261019@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:Furr Elementary School Lunch – Oct 19 (No Menu Listed)
@@ -1614,7 +1574,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20261020@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:Furr Elementary School Lunch – Oct 20 (No Menu Listed)
@@ -1622,7 +1582,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20261021@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:Furr Elementary School Lunch – Oct 21 (No Menu Listed)
@@ -1630,7 +1590,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20261022@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:Furr Elementary School Lunch – Oct 22 (No Menu Listed)
@@ -1638,7 +1598,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20261023@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Furr Elementary School Lunch – Oct 23 (No Menu Listed)
@@ -1646,7 +1606,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20261026@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
 SUMMARY:Furr Elementary School Lunch – Oct 26 (No Menu Listed)
@@ -1654,7 +1614,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20261027@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
 SUMMARY:Furr Elementary School Lunch – Oct 27 (No Menu Listed)
@@ -1662,7 +1622,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20261028@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:Furr Elementary School Lunch – Oct 28 (No Menu Listed)
@@ -1670,7 +1630,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20261029@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
 SUMMARY:Furr Elementary School Lunch – Oct 29 (No Menu Listed)
@@ -1678,7 +1638,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20261030@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:Furr Elementary School Lunch – Oct 30 (No Menu Listed)
@@ -1686,7 +1646,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20261102@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
 SUMMARY:Furr Elementary School Lunch – Nov 02 (No Menu Listed)
@@ -1694,7 +1654,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20261103@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
 SUMMARY:Furr Elementary School Lunch – Nov 03 (No Menu Listed)
@@ -1702,7 +1662,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20261104@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:Furr Elementary School Lunch – Nov 04 (No Menu Listed)
@@ -1710,7 +1670,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20261105@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:Furr Elementary School Lunch – Nov 05 (No Menu Listed)
@@ -1718,7 +1678,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20261106@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:Furr Elementary School Lunch – Nov 06 (No Menu Listed)
@@ -1726,7 +1686,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20261109@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
 SUMMARY:Furr Elementary School Lunch – Nov 09 (No Menu Listed)
@@ -1734,7 +1694,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20261110@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:Furr Elementary School Lunch – Nov 10 (No Menu Listed)
@@ -1742,7 +1702,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20261111@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:Furr Elementary School Lunch – Nov 11 (No Menu Listed)
@@ -1750,7 +1710,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20261112@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:Furr Elementary School Lunch – Nov 12 (No Menu Listed)
@@ -1758,7 +1718,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20261113@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Furr Elementary School Lunch – Nov 13 (No Menu Listed)
@@ -1766,7 +1726,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20261116@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:Furr Elementary School Lunch – Nov 16 (No Menu Listed)
@@ -1774,7 +1734,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20261117@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:Furr Elementary School Lunch – Nov 17 (No Menu Listed)
@@ -1782,7 +1742,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20261118@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Furr Elementary School Lunch – Nov 18 (No Menu Listed)
@@ -1790,7 +1750,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20261119@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Furr Elementary School Lunch – Nov 19 (No Menu Listed)
@@ -1798,7 +1758,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20261120@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Furr Elementary School Lunch – Nov 20 (No Menu Listed)
@@ -1806,7 +1766,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20261123@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:Furr Elementary School Lunch – Nov 23 (No Menu Listed)
@@ -1814,7 +1774,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20261124@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:Furr Elementary School Lunch – Nov 24 (No Menu Listed)
@@ -1822,7 +1782,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20261125@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Furr Elementary School Lunch – Nov 25 (No Menu Listed)
@@ -1830,7 +1790,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20261126@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:Furr Elementary School Lunch – Nov 26 (No Menu Listed)
@@ -1838,7 +1798,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20261127@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Furr Elementary School Lunch – Nov 27 (No Menu Listed)
@@ -1846,7 +1806,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20261130@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Furr Elementary School Lunch – Nov 30 (No Menu Listed)
@@ -1854,7 +1814,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20261201@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Furr Elementary School Lunch – Dec 01 (No Menu Listed)
@@ -1862,7 +1822,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20261202@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:Furr Elementary School Lunch – Dec 02 (No Menu Listed)
@@ -1870,7 +1830,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20261203@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:Furr Elementary School Lunch – Dec 03 (No Menu Listed)
@@ -1878,7 +1838,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20261204@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Furr Elementary School Lunch – Dec 04 (No Menu Listed)
@@ -1886,7 +1846,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20261207@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:Furr Elementary School Lunch – Dec 07 (No Menu Listed)
@@ -1894,7 +1854,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20261208@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:Furr Elementary School Lunch – Dec 08 (No Menu Listed)
@@ -1902,7 +1862,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20261209@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:Furr Elementary School Lunch – Dec 09 (No Menu Listed)
@@ -1910,7 +1870,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20261210@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:Furr Elementary School Lunch – Dec 10 (No Menu Listed)
@@ -1918,7 +1878,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20261211@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:Furr Elementary School Lunch – Dec 11 (No Menu Listed)
@@ -1926,7 +1886,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20261214@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261215
 SUMMARY:Furr Elementary School Lunch – Dec 14 (No Menu Listed)
@@ -1934,7 +1894,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20261215@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
 SUMMARY:Furr Elementary School Lunch – Dec 15 (No Menu Listed)
@@ -1942,7 +1902,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20261216@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
 SUMMARY:Furr Elementary School Lunch – Dec 16 (No Menu Listed)
@@ -1950,7 +1910,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20261217@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
 SUMMARY:Furr Elementary School Lunch – Dec 17 (No Menu Listed)
@@ -1958,7 +1918,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20261218@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:Furr Elementary School Lunch – Dec 18 (No Menu Listed)
@@ -1966,7 +1926,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20261221@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261222
 SUMMARY:Furr Elementary School Lunch – Dec 21 (No Menu Listed)
@@ -1974,7 +1934,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20261222@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20261222
 DTEND;VALUE=DATE:20261223
 SUMMARY:Furr Elementary School Lunch – Dec 22 (No Menu Listed)
@@ -1982,7 +1942,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20261223@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
 SUMMARY:Furr Elementary School Lunch – Dec 23 (No Menu Listed)
@@ -1990,7 +1950,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20261224@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261225
 SUMMARY:Furr Elementary School Lunch – Dec 24 (No Menu Listed)
@@ -1998,7 +1958,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20261225@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 SUMMARY:Furr Elementary School Lunch – Dec 25 (No Menu Listed)
@@ -2006,7 +1966,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20261228@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20261229
 SUMMARY:Furr Elementary School Lunch – Dec 28 (No Menu Listed)
@@ -2014,7 +1974,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20261229@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20261229
 DTEND;VALUE=DATE:20261230
 SUMMARY:Furr Elementary School Lunch – Dec 29 (No Menu Listed)
@@ -2022,7 +1982,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20261230@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
 SUMMARY:Furr Elementary School Lunch – Dec 30 (No Menu Listed)
@@ -2030,7 +1990,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20261231@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:Furr Elementary School Lunch – Dec 31 (No Menu Listed)
@@ -2038,7 +1998,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20270101@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
 SUMMARY:Furr Elementary School Lunch – Jan 01 (No Menu Listed)
@@ -2046,7 +2006,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20270104@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20270104
 DTEND;VALUE=DATE:20270105
 SUMMARY:Furr Elementary School Lunch – Jan 04 (No Menu Listed)
@@ -2054,7 +2014,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20270105@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20270105
 DTEND;VALUE=DATE:20270106
 SUMMARY:Furr Elementary School Lunch – Jan 05 (No Menu Listed)
@@ -2062,7 +2022,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20270106@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20270106
 DTEND;VALUE=DATE:20270107
 SUMMARY:Furr Elementary School Lunch – Jan 06 (No Menu Listed)
@@ -2070,7 +2030,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20270107@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20270107
 DTEND;VALUE=DATE:20270108
 SUMMARY:Furr Elementary School Lunch – Jan 07 (No Menu Listed)
@@ -2078,7 +2038,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20270108@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270109
 SUMMARY:Furr Elementary School Lunch – Jan 08 (No Menu Listed)
@@ -2086,7 +2046,7 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20270111@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20270111
 DTEND;VALUE=DATE:20270112
 SUMMARY:Furr Elementary School Lunch – Jan 11 (No Menu Listed)
@@ -2094,10 +2054,50 @@ DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:furr-elementary-lunch-20270112@prosperisd.nutrislice
-DTSTAMP:20260112T092129Z
+DTSTAMP:20260119T092402Z
 DTSTART;VALUE=DATE:20270112
 DTEND;VALUE=DATE:20270113
 SUMMARY:Furr Elementary School Lunch – Jan 12 (No Menu Listed)
+DESCRIPTION:No lunch menu items were listed for this date.
+END:VEVENT
+BEGIN:VEVENT
+UID:furr-elementary-lunch-20270113@prosperisd.nutrislice
+DTSTAMP:20260119T092402Z
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+SUMMARY:Furr Elementary School Lunch – Jan 13 (No Menu Listed)
+DESCRIPTION:No lunch menu items were listed for this date.
+END:VEVENT
+BEGIN:VEVENT
+UID:furr-elementary-lunch-20270114@prosperisd.nutrislice
+DTSTAMP:20260119T092402Z
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+SUMMARY:Furr Elementary School Lunch – Jan 14 (No Menu Listed)
+DESCRIPTION:No lunch menu items were listed for this date.
+END:VEVENT
+BEGIN:VEVENT
+UID:furr-elementary-lunch-20270115@prosperisd.nutrislice
+DTSTAMP:20260119T092402Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:Furr Elementary School Lunch – Jan 15 (No Menu Listed)
+DESCRIPTION:No lunch menu items were listed for this date.
+END:VEVENT
+BEGIN:VEVENT
+UID:furr-elementary-lunch-20270118@prosperisd.nutrislice
+DTSTAMP:20260119T092402Z
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+SUMMARY:Furr Elementary School Lunch – Jan 18 (No Menu Listed)
+DESCRIPTION:No lunch menu items were listed for this date.
+END:VEVENT
+BEGIN:VEVENT
+UID:furr-elementary-lunch-20270119@prosperisd.nutrislice
+DTSTAMP:20260119T092402Z
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270120
+SUMMARY:Furr Elementary School Lunch – Jan 19 (No Menu Listed)
 DESCRIPTION:No lunch menu items were listed for this date.
 END:VEVENT
 END:VCALENDAR
